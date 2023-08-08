@@ -9,7 +9,7 @@
 * <div>담당업무 - 2차 : 메인페이지,칼로리 및 영양소 통계, 즐겨 찾는 식단 등록, 식단 수정 및 삭제 <br>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp - 3차 : 구글로그인, 비밀번호 찾기, 회원가입, 회원정보 페이지, 관리자 페이지(로그인, 사용자 & 관리자 음식 관리페이지)</div>
 * <a href="https://www.canva.com/design/DAFpma63MDA/jFHxAMayXLwd1fSh8gIA1A/view?utm_content=DAFpma63MDA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">3차 프로젝트 PPT</a>
 * <a href="https://www.canva.com/design/DAFpsa7Ik74/uvPBSVzRxFnXlZCqQMXIvw/edit?utm_content=DAFpsa7Ik74&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">2차 프로젝트 PPT</a>
-* <a href="https://github.com/PHP-506-6/PHP_1STPJ](https://github.com/PHP-506-wdye/project-2">2~3차 GIT</a>
+* <a href="https://github.com/PHP-506-wdye/project-2">2~3차 GIT</a>
 
 # FIRST PROJECT
 * 프로젝트명 : AWAKE
